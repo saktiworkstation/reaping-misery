@@ -7,11 +7,6 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@nuxtjs/google-gtag'
   ],
-  googleGtag: {
-    id: 'G-Y7XBY7KM2F',                   // Ganti dengan Measurement ID-mu
-    config: { anonymize_ip: true },       // Opsi tambahan
-    enabled: process.env.NODE_ENV === 'production'
-  },
   app: {
     head: {
       title: 'Reaping Misery - Farm, Train Pets, Conquer Dungeons',
@@ -21,6 +16,22 @@ export default defineNuxtConfig({
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
       ],
+      script: [
+        // 1. Skrip eksternal Google Tag Manager
+        {
+          async: true,
+          src: 'https://www.googletagmanager.com/gtag/js?id=G-Y7XBY7KM2F'
+        },
+        // 2. Skrip inisialisasi inline
+        {
+          innerHTML: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-Y7XBY7KM2F');
+          `
+        }
+      ]
     }
   }
 })
