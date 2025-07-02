@@ -4,8 +4,14 @@ export default defineNuxtConfig({
   devtools: { enabled: false },
   css: ['~/assets/css/main.css'],
   modules: [
-    '@nuxtjs/tailwindcss'
+    '@nuxtjs/tailwindcss',
+    '@nuxtjs/google-gtag'
   ],
+  googleGtag: {
+    id: 'G-Y7XBY7KM2F',                   // Ganti dengan Measurement ID-mu
+    config: { anonymize_ip: true },       // Opsi tambahan
+    enabled: process.env.NODE_ENV === 'production'
+  },
   app: {
     head: {
       title: 'Reaping Misery - Farm, Train Pets, Conquer Dungeons',
@@ -14,7 +20,7 @@ export default defineNuxtConfig({
       ],
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-      ]
+      ],
     }
   }
 })
