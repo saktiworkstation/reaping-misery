@@ -6,14 +6,7 @@ export default defineNuxtConfig({
 
   modules: [
     '@nuxtjs/tailwindcss',
-    '@nuxtjs/google-gtag' // <-- Di sini, daftarkan HANYA NAMA MODULNYA.
   ],
-
-  // TAMBAHKAN BLOK KONFIGURASI INI SECARA TERPISAH
-  'google-gtag': {
-    id: 'G-Y7XBY7KM2F' // Pastikan ID ini adalah milik Anda
-  },
-
   app: {
     head: {
       title: 'Reaping Misery - Farm, Train Pets, Conquer Dungeons',

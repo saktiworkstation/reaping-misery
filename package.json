@@ -10,7 +10,6 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@nuxtjs/google-gtag": "^1.0.4",
     "nuxt": "^3.13.0"
   },
   "devDependencies": {
