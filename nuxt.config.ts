@@ -3,12 +3,17 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-04-03',
   devtools: { enabled: false },
   css: ['~/assets/css/main.css'],
+
   modules: [
     '@nuxtjs/tailwindcss',
-    ['@nuxtjs/google-gtag', {
-      id: 'G-Y7XBY7KM2F' // <-- ID Google Analytics Anda yang kita bahas sebelumnya
-    }]
+    '@nuxtjs/google-gtag' // <-- Di sini, daftarkan HANYA NAMA MODULNYA.
   ],
+
+  // TAMBAHKAN BLOK KONFIGURASI INI SECARA TERPISAH
+  'google-gtag': {
+    id: 'G-Y7XBY7KM2F' // Pastikan ID ini adalah milik Anda
+  },
+
   app: {
     head: {
       title: 'Reaping Misery - Farm, Train Pets, Conquer Dungeons',
