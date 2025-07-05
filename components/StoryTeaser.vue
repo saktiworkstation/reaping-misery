@@ -10,11 +10,7 @@
         <div class="bg-indigo-900/30 backdrop-blur-sm rounded-xl p-6 mb-8 border border-indigo-800">
           <h3 class="text-2xl font-bold text-white mb-4">Prolog</h3>
           <p class="text-indigo-200">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Donec in
-            efficitur leo.
-            In hac habitasse platea dictumst. Phasellus eu sem in nulla venenatis viverra. Vivamus quis ex nulla.
-            Curabitur ut purus eu nisi convallis maximus. Nunc quis sem quis justo lobortis blandit. Vivamus laoreet
-            felis non eros mollis lobortis.
+            Player bangkit dari kehampaan di bawah patung sang dewi, memulai petualangan dari ketiadaan, akankah dia berhasil mencapai level tertinggi dan mengalahkan semua musuh?.
           </p>
         </div>
 

@@ -15,16 +15,16 @@
         <p class="text-xl md:text-2xl text-indigo-200 max-w-3xl mb-8">
           Kelola kebunmu, latih pet setia, dan hadapi monster di dungeon yang gelap dan brutal!
         </p>
-
+        
         <div class="flex flex-col sm:flex-row gap-4 mt-4">
-          <button class="btn-primary">
+          <a class="btn-primary" href="https://sw-station.itch.io/reaping-misery" target="_blank">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24"
               stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                 d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
             </svg>
             Download Sekarang
-          </button>
+          </a>
           <button class="btn-secondary">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24"
               stroke="currentColor">

@@ -39,40 +39,10 @@
 // Pet data
 const pets = [
   {
-    name: 'Flamepaw',
+    name: 'Chicken',
     imageUrl: 'https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    tags: ['Fire', 'Aggressive'],
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et pharetra dui.'
+    tags: ['Healer', 'Slow'],
+    description: 'Pet ini berkhusus pada penyembuhan jarak jauh, kekurangannya adalah healnya sangat lama.'
   },
-  {
-    name: 'Aquafin',
-    imageUrl: 'https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    tags: ['Water', 'Support'],
-    description: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.'
-  },
-  {
-    name: 'Terrascale',
-    imageUrl: 'https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    tags: ['Earth', 'Tank'],
-    description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.'
-  },
-  {
-    name: 'Sparkwing',
-    imageUrl: 'https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    tags: ['Electric', 'Scout'],
-    description: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.'
-  },
-  {
-    name: 'Shadowpelt',
-    imageUrl: 'https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    tags: ['Dark', 'Stealth'],
-    description: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.'
-  },
-  {
-    name: 'Misthorn',
-    imageUrl: 'https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    tags: ['Magic', 'Healer'],
-    description: 'Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.'
-  }
 ]
 </script>
