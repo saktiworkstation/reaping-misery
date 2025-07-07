@@ -5,7 +5,7 @@
       <div class="flex items-center justify-between">
         <div class="flex items-center">
           <NuxtLink to="/" class="flex items-center space-x-2">
-            <span class="text-2xl font-bold text-white">SW-STATION X REAPING MISERY</span>
+            <span class="text-2xl font-bold text-white">REAPING MISERY</span>
           </NuxtLink>
         </div>
         <div class="hidden md:flex items-center space-x-8">
