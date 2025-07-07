@@ -1,5 +1,5 @@
 <template>
-  <section class="relative pt-20 pb-16 md:pt-24 md:pb-24 overflow-hidden">
+  <section class="relative pt-20 pb-16 md:pt-52 md:pb-24 overflow-hidden">
     <!-- Background overlay -->
     <div class="absolute inset-0 bg-gradient-to-b from-indigo-900/30 to-game-dark z-0">
       <img src="https://source.unsplash.com/featured/?fantasy,game,adventure" alt="Game background"
