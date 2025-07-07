@@ -8,7 +8,7 @@
 
     <div class="container relative z-10">
       <div class="flex flex-col items-center text-center">
-        <h1 class="text-4xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-6 animate-float">
+        <h1 class="text-4xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-6 mt-6 animate-float">
           <span class="text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-pink-400">REAPING MISERY</span>
         </h1>
 
