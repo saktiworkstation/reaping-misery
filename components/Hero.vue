@@ -13,7 +13,7 @@
         </h1>
 
         <p class="text-xl md:text-2xl text-indigo-200 max-w-3xl mb-8">
-          Kelola kebunmu, latih pet setia, dan hadapi monster di dungeon yang gelap dan brutal!
+          Naikkan levelmu, petualang bersama pet setia, dan hadapi monster di dungeon yang gelap dan brutal!
         </p>
         
         <div class="flex flex-col sm:flex-row gap-4 mt-4">
