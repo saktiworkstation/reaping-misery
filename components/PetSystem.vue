@@ -3,7 +3,7 @@
     <div class="container">
       <h2 class="section-title text-center">Sistem Pet</h2>
       <p class="section-subtitle text-center">
-        Pilih rekan pet untuk menemanimu berpetualang. Setiap pet memiliki peran dan kemampuan unik—seperti menyembuhkan dari jarak jauh—namun juga memiliki kelemahan. Manfaatkan mereka secara strategis untuk meraih kemenangan.
+        Pilih rekan pet untuk menemanimu berpetualang. Setiap pet memiliki peran dan kemampuan unik, seperti menyembuhkan dari jarak jauh, namun juga memiliki kelemahan. Manfaatkan mereka secara strategis untuk meraih kemenangan.
       </p>
 
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mt-12">

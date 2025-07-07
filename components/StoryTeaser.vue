@@ -3,7 +3,7 @@
     <div class="container">
       <h2 class="section-title text-center">Cerita</h2>
       <p class="section-subtitle text-center">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse rutrum quam eu orci ultricies.
+        Seorang pahlawan bangkit untuk menghadapi Raja Iblis, namun takdir mengungkap bahwa kebenaran tidak sesederhana itu. Di antara ramalan kuno, pengkhianatan sahabat, dan rahasia kelam sang Penyelamat, petualanganmu akan menentukan nasib dunia.
       </p>
 
       <div class="mt-12 max-w-4xl mx-auto">

@@ -3,7 +3,7 @@
     <div class="container">
       <h2 class="section-title text-center">Dungeon Preview</h2>
       <p class="section-subtitle text-center">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel mauris euismod, varius neque eu, fermentum nisi.
+        Jelajahi dunia yang luas di mana tantangan selalu beradaptasi dengan level kekuatanmu. Namun, bagi para petualang sejati, sebuah dungeon dengan tingkat kesulitan brutal telah menanti di dekatmu. Meskipun berbahaya, hadiah yang tersimpan di dalamnya tak ternilai harganya. Pilihlah jalanmu: bertumbuh seiring dunia atau taklukkan tantangan mustahil.
       </p>
       
       <div class="mt-12 bg-game-dark/70 rounded-xl overflow-hidden border border-purple-800 shadow-2xl shadow-purple-900/30 max-w-4xl mx-auto">

@@ -6,8 +6,7 @@
           <div class="mb-4">
             <h2 class="text-2xl font-bold text-white mb-4">SW-STATION</h2>
             <p class="text-indigo-200">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non placerat mi. Etiam non tellus sem.
-              Aenean pretium convallis lorem.
+              SW-STATION adalah studio game yang berdedikasi untuk menciptakan dunia fantasi yang imersif dengan alur cerita yang mendalam dan tak terlupakan.
             </p>
           </div>
 

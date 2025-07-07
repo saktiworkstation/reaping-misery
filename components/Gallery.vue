@@ -2,9 +2,9 @@
   <section id="gallery" class="section bg-gradient-to-b from-indigo-950 to-purple-950">
     <div class="container">
       <h2 class="section-title text-center">Screenshot Gallery</h2>
-      <p class="section-subtitle text-center">
+      <!-- <p class="section-subtitle text-center">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu neque nisi.
-      </p>
+      </p> -->
 
       <div class="mt-12">
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
