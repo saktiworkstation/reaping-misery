@@ -42,19 +42,19 @@
 // Gallery images
 const images = [
   {
-    url: 'https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    alt: 'Farming System',
-    caption: 'Farm Management'
+    url: 'https://img.itch.zone/aW1hZ2UvMzY4ODQ0OC8yMjAzMDE5Mi5wbmc=/794x1000/VYw4%2Fe.png',
+    alt: 'Simple Inventory',
+    caption: 'Simple Inventory'
   },
   {
-    url: 'https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    alt: 'Pet Collection',
-    caption: 'Pet Training'
+    url: 'https://img.itch.zone/aW1hZ2UvMzY4ODQ0OC8yMTk1NjI5MS5qcGc=/794x1000/Avva%2F%2F.jpg',
+    alt: 'Mysterious Dungeon',
+    caption: 'Mysterious Dungeon'
   },
   {
-    url: 'https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    alt: 'Dungeon Battle',
-    caption: 'Epic Battles'
+    url: 'https://img.itch.zone/aW1hZ2UvMzY4ODQ0OC8yMTk1NjI5MC5qcGc=/794x1000/FAVX%2FF.jpg',
+    alt: 'Lots of Monster',
+    caption: 'Lots of Monster'
   }
 ]
 </script>
